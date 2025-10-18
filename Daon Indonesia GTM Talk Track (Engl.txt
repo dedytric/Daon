@@ -1,0 +1,96 @@
+Daon Indonesia GTM Talk Track (English)
+Slide 1: Daon — Indonesia Market Expansion
+(Title: Daon, Indonesia Market Expansion / Subtitle: Why Indonesia Now, How to Scale via Local Resellers)
+
+"Good morning, everyone. Let’s talk about Indonesia. This presentation isn't just about entering a new market; it's about capturing a massive, immediate growth opportunity. We're here to lay out a focused strategy that answers two critical questions for management: Why do we need to be in Indonesia right now? And how do we plan to scale fast and efficiently using local partners? Let's dive in."
+
+Slide 2: Market Opportunity Snapshot
+(Focus: 280M+ Population, >$150B Digital Economy, 300+ Fintechs)
+
+"Simply put, the numbers speak for themselves. Indonesia is a colossal market, boasting over 280 million people and a digital economy projected to exceed $150 billion by 2025. This isn't just a large population; it’s a fully mobilized digital population."
+
+"More importantly, the financial sector is going through a massive transformation—we're looking at 300+ banks and fintechs racing to digitize their onboarding. This rapid shift, coupled with the rise of deepfakes and tighter data compliance laws, creates a critical, urgent need for robust, regulatory-compliant eKYC. The window is open, and we need to be the first global identity player to seize it."
+
+Slide 3: Daon Value Proposition
+(Focus: IdentityX/TrustX, Anti-Spoofing, Global Compliance)
+
+"Here's why Daon is the perfect fit. Local enterprises often struggle with fragmented, siloed verification systems. Our IdentityX and TrustX platform offers the clean, end-to-end orchestration they desperately need from a single vendor."
+
+"Our key competitive edge is trust and security. Our proven biometrics tackle the sophisticated threat of deepfakes using regulatory-grade anti-spoofing and passive liveness, which very few can match. Plus, our 20+ years of proven deployments with global Tier-1 clients instantly gives us the credibility and local compliance confidence that a new vendor simply cannot achieve alone."
+
+Slide 4: Market Penetration Model — Partner-Led Approach
+(Focus: Boiva, RDS, Telkom Group)
+
+"We're not building a large office first; we're using a Partner-Led Model to minimize CAPEX and maximize speed. We've lined up three strategic pillars who are already embedded in the market:"
+
+Boiva (Fintech): They give us immediate API access to the high-growth digital banking and lending ecosystem. They are agile and plugged in.
+
+RDS (Insurance & BFSI): They are our trusted channel for high-compliance institutions like major banks and insurers. They handle the complex, document-heavy onboarding.
+
+Telkom Group: This is our Strategic Anchor. Partnering with a Telkom entity like Telkomsigma gives us direct access to GovTech projects and the core infrastructure, which is essential for long-term strategic growth."
+
+Slide 5: Expansion Strategy (3-Track Model)
+(Focus: T1: Fintech/PPV, T2: Insurance/Projects, T3: GovTech/Contracts)
+
+"To ensure balanced and resilient growth, we're executing a simultaneous attack across all three high-value verticals:"
+
+Track 1 (Fintech): This is our volume play. It's all about high-frequency, low-cost Pay-Per-Verification (PPV) recurring revenue through e-wallets and digital banks.
+
+Track 2 (Insurance): This is our stable income track. It focuses on higher-value project integration fees for complex authentication and claim processes.
+
+Track 3 (Government): This is our big-ticket, long-term track. With Telkom, we aim for large, multi-year contract agreements, starting with the National Digital ID PoC. This validates us at the highest level."
+
+Slide 6: Strategic Initiative: Leverage Global Relationships for Local Entry
+(Focus: Standard Chartered/Citi, AIA/Prudential)
+
+"We don’t need to knock on cold doors. We're initiating a Global-to-Local Bridge program. We will activate our existing global relationships with clients like Standard Chartered, Citi, AIA, and Mastercard to bring their IdentityX deployments to their Indonesian subsidiaries."
+
+"This strategy provides instantaneous Tier-1 validation, bypassing the early sales cycles and proving our technology locally using names management already trusts globally. This dramatically accelerates our time-to-market."
+
+Slide 7: Strategic Execution Plan
+(Focus: Map, Bridge, Execute)
+
+"Our execution plan is laser-focused and three-pronged:"
+
+Map: We start by prioritizing our global clients who are already operating in Indonesia.
+
+Bridge: We finalize product localization and develop powerful, concise Global-to-Local success case studies to show the local teams what the global team already uses.
+
+Execute: All sales and implementation are handled by our trusted channel partners. We will employ a 'Daon Inside' co-branding strategy to quickly build brand awareness while relying on the partners' local trust and compliance frameworks."
+
+Slide 8: Go-To-Market Roadmap (2026–2028)
+(Focus: Setup, Pilot, Validation, Scale)
+
+"Looking at the roadmap, we have clear milestones over the next three years:"
+
+Phase 1 (0–6 Months): Setup. Get the legal structure and our three key partnerships formalized.
+
+Phase 2 (6–12 Months): Pilot. We need to get two Fintechs and one major Insurer live to validate our core revenue models.
+
+Phase 3 (12–24 Months): Validation. Secure and successfully complete the GovTech PoC through Telkom.
+
+Phase 4 (24–36 Months): Scale. The final phase is aggressive expansion, moving from initial deployments to generating a sustained, large-scale recurring revenue base."
+
+Slide 9: Revenue Projection Model (Conservative Scenario)
+(Focus: $3.14M Total, 90% CAGR)
+
+"Let's review the financials. We have modeled this under a conservative scenario, assuming slower than optimal market conditions. Despite that, the numbers are impressive."
+
+"We project a total revenue of $3.14 Million over three years, which still results in a powerful CAGR of roughly 90%."
+
+"The beauty of the 3-track model is diversification: Fintech brings quick volume. Insurance provides stable, high-value project fees. And GovTech secures the long-term, highest-value contracts, validating us for the entire market."
+
+Slide 10: Strategic Benefits & Summary
+(Focus: Credibility, Low CAPEX, Diversified Growth, Scalability)
+
+"To wrap up, this GTM strategy is engineered for success because it delivers four key wins:"
+
+Immediate Credibility: We start with global trust, not from scratch.
+
+Low CAPEX: The partner model is capital-efficient and fast-to-market.
+
+Stable Growth: We have built resilient revenue streams by targeting three different sectors simultaneously.
+
+Long-Term Scalability: Our strategic partnership with Telkom Group gives us a clear runway to become a permanent, large-scale provider."
+
+(Closing) "We believe this plan provides the most strategic, low-risk path to establishing Daon as the clear leader in the Indonesian digital identity space. Thank you. I’m happy to take any questions."
